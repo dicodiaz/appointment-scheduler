@@ -71,3 +71,7 @@ group :development do
 
   gem "bullet", "~> 7.0"
 end
+
+gem "bootstrap", "~> 5.3"
+
+gem "bootstrap_form", "~> 5.2"
