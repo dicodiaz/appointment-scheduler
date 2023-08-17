@@ -68,4 +68,6 @@ group :development do
   gem 'rubocop', '>= 1.0', '< 2.0'
 
   gem "solargraph", "~> 0.49.0"
+
+  gem "bullet", "~> 7.0"
 end
