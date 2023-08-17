@@ -64,5 +64,6 @@ group :development do
   # gem "spring"
 
   gem 'rubocop', '>= 1.0', '< 2.0'
-end
 
+  gem "solargraph", "~> 0.49.0"
+end
